@@ -1,3 +1,4 @@
+import React from 'react';
 const MEMBEE_SSO_BASE = import.meta.env.VITE_MEMBEE_SSO_URL || 'https://members.membee.com/feeds/sso';
 
 const portals = [
